@@ -6,6 +6,8 @@
       <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_main" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_test" target="11" />
       <module name="Tic-Tac-Toe-task_main" target="11" />
       <module name="Tic-Tac-Toe-task_test" target="11" />
       <module name="util_main" target="11" />
